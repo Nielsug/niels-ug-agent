@@ -1,0 +1,10 @@
+streamlit_app.py
+streamlit==1.26.0
+requests
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-dotenv
+moviepy
+pillow
+openai
